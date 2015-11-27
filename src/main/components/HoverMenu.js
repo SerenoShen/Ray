@@ -13,6 +13,4 @@
 
     Ray = window._$Ray || {};
 
-    window.R = window._$Ray = Ray;
-
 }));
